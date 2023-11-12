@@ -32,4 +32,4 @@ Para acessar o sistema, utilize as seguintes credenciais:
 
 https://sprint-04-main.vercel.app
 
-Obs: Alguams Imagens faltam apenas quando analisado no site hospedado.
+Obs: Algumas Imagens faltam apenas quando analisado o site pela hospedagem.
