@@ -66,7 +66,7 @@ function Home() {
                 </SwiperSlide>
             </Swiper>
 
-            <div className="container">
+            <div className="container_2">
                 <div className="top">
                     <div className="parteEsquerda">
                         <div className="titulo">Destaques</div>
@@ -81,7 +81,7 @@ function Home() {
                         const { id, nome, endereco, img } = item;
                         return (
                             <div key={id}>
-                                <div className="item">
+                                <div className="item02">
                                     <div className="imagem">
                                         <img src={img} alt={nome} />
                                     </div>
